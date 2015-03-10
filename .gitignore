@@ -1,0 +1,26 @@
+# IDE working files
+*.iws
+*.ipr
+.idea/
+.settings
+.project
+.classpath
+node_modules/
+
+# Build & test droppings
+report.xml
+report.tap
+results.tap
+xunit.xml
+chromedriver.log
+release.properties
+test-json-report.json
+*.ser
+results/
+npm-debug.log
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
