@@ -37,7 +37,8 @@
   },
   "devDependencies": {
     "istanbul": "0.x",
-    "yhint": "^0.1.13"
+    "yhint": "^0.1.13",
+    "mongodb": "*"
   },
   "yahoo": {
     "custodian": {
